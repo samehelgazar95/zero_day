@@ -1,5 +1,6 @@
->> Vagrant Task <<
-I creating this Repo using VM, I just installed Vagrant, and Oracle VM Virtual Machine
+Vagrant Task
+ 
+I just installed Vagrant, and Oracle VM Virtual Machine. and created this Repo using VM.
 
 Topics Covered:
 - What is a virtual machine
